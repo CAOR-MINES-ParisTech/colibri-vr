@@ -22,7 +22,7 @@ For Unity versions: 2019.2.15f1 or higher
 * * *
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?feature=player_embedded&v=aqz-KE-bpKQ" target="_blank"><img src="https://img.youtube.com/vi/aqz-KE-bpKQ/0.jpg" alt="Project video" width="640" height="480" border="10" /></a><br><i>Watch the project video: <a href="https://youtu.be/aqz-KE-bpKQ">on YouTube</a></i>
+   <a href="https://www.youtube.com/watch?feature=player_embedded&v=i8dqpKah18k" target="_blank"><img src="https://img.youtube.com/vi/i8dqpKah18k/0.jpg" alt="Project video" width="640" height="480" border="10" /></a><br><i>Watch the project video: <a href="https://youtu.be/i8dqpKah18k">on YouTube</a></i>
 </p>
 
 ## About

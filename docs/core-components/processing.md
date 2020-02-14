@@ -15,7 +15,7 @@ nav_order: 3
 The `Processing` component is used to transform the input set of photographs into a scene representation, potentially containing both color and geometric data, stored as an asset bundle. The output of this process is a set of assets that can easily be loaded at render time. 
 
 <p align="center">
-      <img src="https://github.com/DinechinGreg/temp-project/raw/master/docs/illustrations/TerrainsProcessing2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Processing component.</i>
+      <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/TerrainsProcessing2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Processing component.</i>
 </p>
 
 ## Source data
@@ -24,7 +24,7 @@ The component's graphical user interface starts with a section enabling the user
 
 ## External processing helpers
 
-$TEMP-PROJECT$ can make use of several external tools during processing (see [this section](https://dinechingreg.github.io/temp-project/getting-started/installation#optional-steps-linked-external-tools) of the Installation page for more details), notably to perform 3D reconstruction and mesh simplification. We specifically selected external resources that openly provide downloadable executable files, to ensure accessibility to all types of users.
+COLIBRI VR can make use of several external tools during processing (see [this section](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#optional-steps-linked-external-tools) of the Installation page for more details), notably to perform 3D reconstruction and mesh simplification. We specifically selected external resources that openly provide downloadable executable files, to ensure accessibility to all types of users.
 
 - `COLMAP 3.6`: [COLMAP](http://colmap.github.io/) offers a full 3D reconstruction pipeline, able to estimate camera parameters and 3D meshes from the input set of images. We leverage its command-line interface to provide two functionalities within Unity:
   - `Recover sparse camera setup from images`: This button launches COLMAP's sparse reconstruction pipeline, and stores the camera parameters in a text file. The process also undistorts the input images based on the estimated parameters.
@@ -44,7 +44,7 @@ $TEMP-PROJECT$ can make use of several external tools during processing (see [th
 
 - `Per-view meshes from underlying focal surfaces`: This geometry processing method stores mesh assets representing the images' underlying focal surfaces. In practice, it only stores the geometrical primitives corresponding to the focal surfaces, i.e. at most stores one quad mesh and one sphere mesh.
 
-- `Per-view meshes from depth maps by quadtree simplification and triangle removal`: This geometry processing method creates mesh assets from the set of per-view depth maps. For details on the implementation of the meshing process, see the [Per-view meshes QSTR](https://dinechingreg.github.io/temp-project/shader-implementations/per-view-meshes-qstr) page.
+- `Per-view meshes from depth maps by quadtree simplification and triangle removal`: This geometry processing method creates mesh assets from the set of per-view depth maps. For details on the implementation of the meshing process, see the [Per-view meshes QSTR](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations/per-view-meshes-qstr) page.
 
 - `Global mesh from existing file`: This geometry processing method exports the `.OBJ` mesh created previously as a Unity asset.
 

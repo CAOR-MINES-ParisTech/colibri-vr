@@ -20,7 +20,7 @@ The `Acquisition` component is used to capture sets of images from synthetic Uni
 The images, as well as setup and camera parameters, are then stored to a directory specified by the user.
 
 <p align="center">
-      <img src="https://github.com/caor-mines-paristech.fr/colibri-vr/raw/master/docs/illustrations/BunnyAcquisition2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Acquisition component.</i>
+      <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/BunnyAcquisition2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Acquisition component.</i>
 </p>
 
 ## Acquisition setup

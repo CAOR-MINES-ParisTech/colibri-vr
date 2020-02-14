@@ -16,14 +16,14 @@ In order to evaluate the quality of a rendering solution, one typically compares
 
 Work-in-progress
 {: .label .label-yellow }
-- $TEMP-PROJECT$ does not yet enable obtaining a quantitative evaluation value for a given rendering solution, that would be obtained as an average value over multiple datasets (e.g. virtual rephotography, see <a href="#waechter2017">[Waechter et al. 2017]</a>). The project currently implements evaluation metrics for visualization purposes only.
+- COLIBRI VR does not yet enable obtaining a quantitative evaluation value for a given rendering solution, that would be obtained as an average value over multiple datasets (e.g. virtual rephotography, see <a href="#waechter2017">[Waechter et al. 2017]</a>). The project currently implements evaluation metrics for visualization purposes only.
 
 ## Cb+Cr
 
 The `Cb+Cr` error metric is computed in each pixel as the sum of absolute differences, for the Cb and Cr channels in the YCbCr color space, of the source and rendered view's color values. For more information, see <a href="#waechter2017">[Waechter et al. 2017]</a>.
 
 <p align="center">
-      <img src="https://github.com/DinechinGreg/temp-project/raw/master/docs/illustrations/PyriteEval.png" alt="" width="480" height="360"><br><i>Evaluation is performed by comparing the original images and the corresponding rendered views. In this illustration, differences are computed using the Cb+Cr metric, and visualized with the plasma colormap.</i>
+      <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/PyriteEval.png" alt="" width="480" height="360"><br><i>Evaluation is performed by comparing the original images and the corresponding rendered views. In this illustration, differences are computed using the Cb+Cr metric, and visualized with the plasma colormap.</i>
 </p>
 
 * * *

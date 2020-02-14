@@ -8,7 +8,7 @@ nav_order: 1
 # COLIBRI VR
 {: .fs-9 }
 
-## Core Open Lab on Image-Based Rendering Innovation for Virtual Reality
+## An Open-Source Toolkit to Render Real-World Scenes in Virtual Reality
 {: .fs-6 .fw-300 }
 
 Latest project version: 0.0 <br>

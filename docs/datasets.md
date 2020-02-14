@@ -21,7 +21,7 @@ nav_order: 6
 </script>
  
 
-Here is a list of datasets on which to test $TEMP-PROJECT$. It notably includes the datasets that were used to illustrate the publication in which we introduce the toolkit.
+Here is a list of datasets on which to test COLIBRI VR. It notably includes the datasets that were used to illustrate the publications in which we introduce the toolkit.
 
    <table id="table_id" class="display" style="text-align:center;" data-page-length='50'>
        <thead>

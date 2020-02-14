@@ -5,10 +5,10 @@ permalink: /
 nav_order: 1
 ---
 
-# $TEMP-PROJECT$
+# COLIBRI VR
 {: .fs-9 }
 
-## $TEMP-PROJECT-SUBHEADER$
+## Core Open Lab on Image-Based Rendering Innovation for Virtual Reality
 {: .fs-6 .fw-300 }
 
 Latest project version: 0.0 <br>
@@ -16,7 +16,7 @@ Latest release date: not yet released <br>
 For Unity versions: 2019.2.15f1 or higher
 {: .text-grey-dk-000 .fs-5 .fw-300 }
 
-[$TEMP-PROJECT$ on GitHub](https://github.com/DinechinGreg/temp-project/){: .btn .btn-blue }
+[$TEMP-PROJECT$ on GitHub](https://github.com/caor-mines-paristech/colibri-vr/){: .btn .btn-blue }
 [$TEMP-PROJECT$ on the Unity Asset Store](https://assetstore.unity.com/){: .btn .btn-green }
 
 * * *
@@ -27,16 +27,16 @@ For Unity versions: 2019.2.15f1 or higher
 
 ## About
 
-$TEMP-PROJECT$ is the $TEMP-PROJECT-ACRONYM-EXPLAINER$. It is an open resource with a graphical user interface that aims to enable researchers to easily use and develop image-based rendering techniques for virtual reality. It is currently being developed as a package for the Unity game engine.
+COLIBRI VR is the Core Open Lab on Image-Based Rendering Innovation for Virtual Reality. It is an open resource with a graphical user interface that aims to enable researchers to easily use and develop image-based rendering techniques for virtual reality. It is currently being developed as a package for the Unity game engine.
 
 ## Citation
 
-The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechin.com) during his PhD at [MINES ParisTech, PSL University](http://www.mines-paristech.eu/) under the supervision of [Alexis Paljic](https://www.researchgate.net/profile/Alexis_Paljic). If you use $TEMP-PROJECT$, please cite the following paper:
+The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechin.com) during his PhD at [MINES ParisTech, PSL University](http://www.mines-paristech.eu/) under the supervision of [Alexis Paljic](https://www.researchgate.net/profile/Alexis_Paljic). If you use COLIBRI VR, please cite the following paper:
 
 ```
 @inproceedings{deDinechinPaljic2020TEMP,
  author = {Gr{\'e}goire Dupont de Dinechin and Alexis Paljic},
- title = {$TEMP-PROJECT$}
+ title = {TBA}
 } 
 ```
 
@@ -52,18 +52,18 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 
 ## License
 
-The project is released under an [MIT license](https://github.com/DinechinGreg/temp-project/blob/master/LICENSE).
+The project is released under an [MIT license](https://github.com/caor-mines-paristech/colibri-vr/blob/master/LICENSE).
 
 ## Documentation overview
 
 Here are the different elements you can find on this documentation website:
 
-- The [Getting started](https://dinechingreg.github.io/temp-project/getting-started) pages help you get started with the toolkit, showing how to install it and describing the graphical user interface.
-- The [Structural elements](https://dinechingreg.github.io/temp-project/structural-elements) pages describe the concepts on which the project relies, and how they are implemented into practical structures and models.
-- The [Core components](https://dinechingreg.github.io/temp-project/core-components) pages contain detailed information on the components implemented in the project, and can thus help better use the related graphical user interfaces.
-- The [Shader implementations](https://dinechingreg.github.io/temp-project/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
-- The [Datasets](https://dinechingreg.github.io/temp-project/datasets) page provides a list of online image datasets on which the project can be tested.
-- The [FAQ](https://dinechingreg.github.io/temp-project/faq) page answers frequently asked questions.
+- The [Getting started](https://caor-mines-paristech.github.io/colibri-vr/getting-started) pages help you get started with the toolkit, showing how to install it and describing the graphical user interface.
+- The [Structural elements](https://caor-mines-paristech.github.io/colibri-vr/structural-elements) pages describe the concepts on which the project relies, and how they are implemented into practical structures and models.
+- The [Core components](https://caor-mines-paristech.github.io/colibri-vr/core-components) pages contain detailed information on the components implemented in the project, and can thus help better use the related graphical user interfaces.
+- The [Shader implementations](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
+- The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
+- The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
 
 ## News
 {: .d-inline-block }

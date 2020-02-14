@@ -26,9 +26,9 @@ Frequently asked questions
 
 ## Camera model
 
-[Can I use any real camera to capture the source photographs?](https://caor-mines-paristech.github.io/colibri-vr/structural-elements/camera-model#can-i-use-any-real-camera-to-capture-the-source-photographs)
+[Can I use any real camera to capture the source photographs?](https://caor-mines-paristech.github.io/colibri-vr/core-components/camera-model#can-i-use-any-real-camera-to-capture-the-source-photographs)
 
-[How is the camera model related to Unity's built-in Camera component?](https://caor-mines-paristech.github.io/colibri-vr/structural-elements/camera-model#how-is-the-camera-model-related-to-unitys-built-in-camera-component)
+[How is the camera model related to Unity's built-in Camera component?](https://caor-mines-paristech.github.io/colibri-vr/core-components/camera-model#how-is-the-camera-model-related-to-unitys-built-in-camera-component)
 
 ## Acquisition
 

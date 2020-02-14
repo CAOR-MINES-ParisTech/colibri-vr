@@ -11,7 +11,7 @@ has_toc: false
 
 * * *
 
-Let's get you started with $TEMP-PROJECT$.
+Let's get you started with COLIBRI VR.
 
-- The [Installation](https://dinechingreg.github.io/temp-project/getting-started/installation) page describes how to install the package, and provides links to relevant external tools.
-- The [Tutorial](https://dinechingreg.github.io/temp-project/getting-started/tutorial) page helps you take your first steps with the graphical user interface.
+- The [Installation](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation) page describes how to install the package, and provides links to relevant external tools.
+- The [Tutorial](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial) page helps you take your first steps with the graphical user interface.

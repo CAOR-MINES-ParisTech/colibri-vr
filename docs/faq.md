@@ -14,9 +14,9 @@ Frequently asked questions
 
 ## Installation
 
-[Can I run COLIBRI VR on any operating system?](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#can-i-run-temp-project-on-any-operating-system)
+[Can I run COLIBRI VR on any operating system?](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#can-i-run-colibri-vr-on-any-operating-system)
 
-[Do I need a special setup to run COLIBRI VR?](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#do-i-need-a-special-setup-to-run-temp-project)
+[Do I need a special setup to run COLIBRI VR?](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#do-i-need-a-special-setup-to-run-colibri-vr)
 
 [Is the project affiliated with any or all of the linked external tools?](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation#is-the-project-affiliated-with-any-or-all-of-the-linked-external-tools)
 

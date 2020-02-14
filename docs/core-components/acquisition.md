@@ -20,7 +20,7 @@ The `Acquisition` component is used to capture sets of images from synthetic Uni
 The images, as well as setup and camera parameters, are then stored to a directory specified by the user.
 
 <p align="center">
-      <img src="https://github.com/DinechinGreg/temp-project/raw/master/docs/illustrations/BunnyAcquisition2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Acquisition component.</i>
+      <img src="https://github.com/caor-mines-paristech.fr/colibri-vr/raw/master/docs/illustrations/BunnyAcquisition2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Acquisition component.</i>
 </p>
 
 ## Acquisition setup
@@ -46,7 +46,7 @@ The images, as well as setup and camera parameters, are then stored to a directo
 
 ## Output data directory and capture button
 
-The final section of the component's graphical user interface enables the user to select the output directory, and to launch acquisition at the click of a button. Note that the output directory should be seen as the root directory of the dataset, not the "images" folder itself (see the [File structure](https://dinechingreg.github.io/temp-project/documentation/file-structure) page).
+The final section of the component's graphical user interface enables the user to select the output directory, and to launch acquisition at the click of a button. Note that the output directory should be seen as the root directory of the dataset, not the "images" folder itself (see the [File structure](https://caor-mines-paristech.github.io/colibri-vr/documentation/file-structure) page).
 
 * * *
 * * *

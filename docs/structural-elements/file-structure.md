@@ -30,7 +30,7 @@ A typical processed dataset will have the following structure:
 
 ## Camera setup files
 
-The `cameras.txt` and `images.txt` files are used by $TEMP-PROJECT$ to store and fetch the parameters of the camera setup.
+The `cameras.txt` and `images.txt` files are used by COLIBRI VR to store and fetch the parameters of the camera setup.
 
 These files are formatted to follow COLMAP's file structure, so as to more easily work with this external tool. For information on their content, we therefore redirect viewers to [the corresponding section](https://colmap.github.io/format.html#cameras-txt) of COLMAP's documentation website.
 

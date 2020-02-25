@@ -16,7 +16,7 @@ Latest release date: not yet released <br>
 For Unity versions: 2019.2.15f1 or higher
 {: .text-grey-dk-000 .fs-5 .fw-300 }
 
-[COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr/){: .btn .btn-blue }
+[COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 [COLIBRI VR on the Unity Asset Store](https://assetstore.unity.com/){: .btn .btn-green }
 
 * * *

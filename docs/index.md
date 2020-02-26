@@ -35,7 +35,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 
 ```
 @inproceedings{deDinechinPaljic2020TEMP,
- author = {Gr{\'e}goire Dupont de Dinechin and Alexis Paljic},
+ author = {Grégoire Dupont de Dinechin and Alexis Paljic},
  title = {TBA}
 } 
 ```

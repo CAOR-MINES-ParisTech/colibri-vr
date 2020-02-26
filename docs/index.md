@@ -52,7 +52,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 
 ## License
 
-The project is released under an [MIT license](https://github.com/caor-mines-paristech/colibri-vr/blob/master/LICENSE).
+The project is released under an [MIT license](https://github.com/caor-mines-paristech/colibri-vr-unity-package/blob/master/LICENSE.md).
 
 ## Documentation overview
 
@@ -70,4 +70,4 @@ Here are the different elements you can find on this documentation website:
 New
 {: .label .label-green }
 
-Still working on the documentation. The package is almost done, should be uploaded to the asset store soon!
+Still working on the documentation. The package has tentatively been uploaded to GitHub, should be uploaded to the asset store soon!

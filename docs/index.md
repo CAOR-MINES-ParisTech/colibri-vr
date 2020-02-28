@@ -31,14 +31,20 @@ COLIBRI VR is the Core Open Lab on Image-Based Rendering Innovation for Virtual
 
 ## Citation
 
-The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechin.com) during his PhD at [MINES ParisTech, PSL University](http://www.mines-paristech.eu/) under the supervision of [Alexis Paljic](https://www.researchgate.net/profile/Alexis_Paljic). If you use COLIBRI VR, please cite the following paper:
+The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechin.com) during his PhD at [MINES ParisTech, PSL University](http://www.mines-paristech.eu/) under the supervision of [Alexis Paljic](https://www.researchgate.net/profile/Alexis_Paljic). If you use COLIBRI VR, please cite the following [WEVR 2020](wevr.adalsimeone.me/) paper:
 
 ```
-@inproceedings{deDinechinPaljic2020TEMP,
- author = {Grégoire Dupont de Dinechin and Alexis Paljic},
- title = {TBA}
+@inproceedings{deDinechinPaljic2020From,
+        title = {From Real to Virtual: An Image-Based Rendering Toolkit to Help Bring the World Around Us Into Virtual Reality},
+        booktitle = {6th Workshop on Everyday Virtual Reality ({WEVR})},
+        publisher = {{IEEE}},
+        author = {Gr{\'e}goire Dupont de Dinechin and Alexis Paljic},
+        month = mar,
+        year = {2020}
 } 
 ```
+
+This project was also presented at the [IEEE VR 2020](ieeevr.org/2020/) conference by way of a poster, video submission, and research demonstration.
 
 ## Contributors
 

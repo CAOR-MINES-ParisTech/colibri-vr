@@ -44,7 +44,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 } 
 ```
 
-This project was also presented at the [IEEE VR 2020](https://ieeevr.org/2020/) conference by way of a poster, video submission, and research demonstration.
+This project was also presented at the [IEEE VR 2020](http://ieeevr.org/2020/) conference by way of a poster, video submission, and research demonstration.
 
 ## Contributors
 

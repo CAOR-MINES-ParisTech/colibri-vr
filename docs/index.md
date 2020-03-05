@@ -24,7 +24,7 @@ For Unity versions: 2019.2.15f1 or higher
 * * *
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?feature=player_embedded&v=i8dqpKah18k" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/thumbnail.png" alt="" width="600" height="600" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
+   <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/thumbnail.png" alt="" width="600" height="600" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
 </p>
 
 ## About
@@ -39,7 +39,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 @inproceedings{deDinechinPaljic2020From,
         title = {From Real to Virtual: An Image-Based Rendering Toolkit to Help Bring the World Around Us Into Virtual Reality},
         booktitle = {6th Workshop on Everyday Virtual Reality ({WEVR})},
-        publisher = {{IEEE}},
+        publisher = { {IEEE} },
         author = {Gr{\'e}goire Dupont de Dinechin and Alexis Paljic},
         month = mar,
         year = {2020}

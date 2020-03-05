@@ -55,6 +55,6 @@ To display an input set of images as an object in 3D space, COLIBRI VR renders t
 References
 {: .label .label-purple }
 
-<a name="buehler2001"> [Buehler et al. 2001] </a> C. Buehler, M. Bosse, L. McMillan, S. Gortler, and M. Cohen. Unstructured Lumigraph Rendering. In 28th Annual Conference on Computer Graphics and Interactive Techniques - SIGGRAPH '01. ACM Press, 2001. doi: [10.1145/383259.383309](https://doi.org/10.1145/383259.383309)
+<a name="buehler2001"> [Buehler et al. 2001] </a> C. Buehler, M. Bosse, L. McMillan, S. Gortler, and M. Cohen. **Unstructured Lumigraph Rendering.** In 28th Annual Conference on Computer Graphics and Interactive Techniques - SIGGRAPH '01. ACM Press, 2001. doi: [10.1145/383259.383309](https://doi.org/10.1145/383259.383309)
 
-<a name="overbeck2018"> [Overbeck et al. 2018] </a> R. S. Overbeck, D. Erickson, D. Evangelakos, M. Pharr, and P. Debevec. A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality. ACM Transactions on Graphics, 37(6):1–15, Dec. 2018. doi: [10.1145/3272127.3275031](https://doi.org/10.1145/3272127.3275031)
+<a name="overbeck2018"> [Overbeck et al. 2018] </a> R. S. Overbeck, D. Erickson, D. Evangelakos, M. Pharr, and P. Debevec. **A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality.** ACM Transactions on Graphics, 37(6):1–15, Dec. 2018. doi: [10.1145/3272127.3275031](https://doi.org/10.1145/3272127.3275031)

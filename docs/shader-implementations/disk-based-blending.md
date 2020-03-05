@@ -28,4 +28,4 @@ The method is inspired by the work presented by <a href="#overbeck2018">[Overbec
 References
 {: .label .label-purple }
 
-<a name="overbeck2018">[Overbeck et al. 2018]</a> R. S. Overbeck, D. Erickson, D. Evangelakos, M. Pharr, and P. Debevec. A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality. ACM Transactions on Graphics, 2018, [doi: 10.1145/3272127.3275031](https://doi.org/10.1145/3272127.3275031).
+<a name="overbeck2018">[Overbeck et al. 2018]</a> R. S. Overbeck, D. Erickson, D. Evangelakos, M. Pharr, and P. Debevec. **A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality.** ACM Transactions on Graphics, 2018, [doi: 10.1145/3272127.3275031](https://doi.org/10.1145/3272127.3275031).

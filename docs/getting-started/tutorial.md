@@ -33,3 +33,5 @@ Before reading the rest of this tutorial, please ensure that you have already pe
 Here is an overview of the steps examined in this tutorial:
 - *Steps A-B:* Using the [Processing](https://caor-mines-paristech.github.io/colibri-vr/core-components/processing) component to transform the source photographs into a 3D scene representation.
 - *Steps Y-Z:* Using the [Rendering](https://caor-mines-paristech.github.io/colibri-vr/core-components/rendering) component to render the representation in VR with view-dependent highlights.
+
+**TODO: This section is not yet complete. Tutorial videos should be coming soon.**

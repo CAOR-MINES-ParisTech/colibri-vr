@@ -19,10 +19,12 @@ For Unity versions: 2019.2.15f1 or higher
 [COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 [COLIBRI VR on the Unity Asset Store](https://assetstore.unity.com/){: .btn .btn-green }
 
+**Important note: COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.**
+
 * * *
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?feature=player_embedded&v=i8dqpKah18k" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/thumbnail.png" alt="" width="600" height="600" /></a><br><i>Watch the project video: <a href="https://youtu.be/i8dqpKah18k">on YouTube</a></i>
+   <a href="https://www.youtube.com/watch?feature=player_embedded&v=i8dqpKah18k" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/thumbnail.png" alt="" width="600" height="600" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
 </p>
 
 ## About
@@ -44,7 +46,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 } 
 ```
 
-This project was also presented at the [IEEE VR 2020](http://ieeevr.org/2020/) conference by way of a poster, video submission, and research demonstration.
+This project was also presented at the [IEEE VR 2020](http://ieeevr.org/2020/) conference by way of a poster, video submission, and research demonstration. The complete list of related publications can be found [here](http://greg3dinechin.com/publications).
 
 ## Contributors
 

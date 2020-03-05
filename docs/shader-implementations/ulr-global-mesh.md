@@ -42,4 +42,4 @@ In vertices where the blending weights have not been updated, the color is given
 References
 {: .label .label-purple }
 
-<a name="buehler2001">[Buehler et al. 2001]</a> C. Buehler, M. Bosse, L. McMillan, S. Gortler, M. Cohen. Unstructured Lumigraph Rendering. SIGGRAPH '01: Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, 2001. [doi: 10.1145/383259.383309](https://doi.org/10.1145/383259.383309)
+<a name="buehler2001">[Buehler et al. 2001]</a> C. Buehler, M. Bosse, L. McMillan, S. Gortler, M. Cohen. **Unstructured Lumigraph Rendering.** SIGGRAPH '01: Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, 2001. [doi: 10.1145/383259.383309](https://doi.org/10.1145/383259.383309)

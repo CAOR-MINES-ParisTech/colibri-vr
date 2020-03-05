@@ -18,7 +18,7 @@ The goal of this tutorial is to help you use COLIBRI VR to render view-dependent
 
 Before reading the rest of this tutorial, please ensure that you have already performed the following steps:
 
-1. You have installed COLIBRI VR and imported it into a new Unity project. For help on this step, follow the instructions on the [Installation](https://caor-mines-paristech.github.io/colibri-vr/installation/) page, including the instructions to install the external tools COLMAP and Blender.
+1. You have installed COLIBRI VR and imported it into a new Unity project. For help on this step, follow the instructions on the [Installation](https://caor-mines-paristech.github.io/colibri-vr/getting-started/installation/) page, including the instructions to install the external tools COLMAP and Blender.
 
 2. You have set up your input photographs in a folder as defined by the file structure shown below (see the [File structure](https://caor-mines-paristech.github.io/colibri-vr/structural-elements/file-structure) page for more details). These photographs can have been captured by yourself, downloaded from an online image dataset (see the [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page), or captured from a synthetic scene using the toolkit's dedicated tool (see the [Acquisition](https://caor-mines-paristech.github.io/colibri-vr/core-components/acquisition) page).
 ```

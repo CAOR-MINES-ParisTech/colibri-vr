@@ -11,8 +11,8 @@ nav_order: 1
 ## An Open-Source Toolkit to Render Real-World Scenes in Virtual Reality
 {: .fs-6 .fw-300 }
 
-Latest project version: 0.0 <br>
-Latest release date: not yet released <br>
+Latest project version: 1.0 <br>
+Latest release date: on Github since March 2020 <br>
 For Unity versions: 2019.2.15f1 or higher
 {: .text-grey-dk-000 .fs-5 .fw-300 }
 

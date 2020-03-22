@@ -13,7 +13,7 @@ nav_order: 1
 ## Required steps
 
 1. Install the [Unity game engine](https://unity.com/).
-2. Go to the Unity Asset store to download the [COLIBRI VR package](https://assetstore.unity.com/).
+2. Use the Unity package manager to add the package from COLIBRI VR's [Git page](https://github.com/caor-mines-paristech/colibri-vr-unity-package/). If you do not have Git, you can simply download the package from Git and manually add it into Unity using the package manager.
 
 ## Optional steps: linked external tools
 

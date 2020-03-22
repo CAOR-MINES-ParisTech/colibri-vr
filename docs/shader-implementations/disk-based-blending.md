@@ -10,6 +10,13 @@ nav_order: 3
 
 * * *
 
+## Important note
+{: .d-inline-block }
+Important
+{: .label .label-red }
+
+This section is not yet complete. Please come back later!
+
 ## Overview
 
 This blending method can be used to render per-view proxies (depth-based meshes and focal surface meshes) in a way that displays captured view-dependent effects such as specular highlights.

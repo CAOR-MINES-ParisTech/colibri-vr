@@ -24,9 +24,9 @@ For Unity versions: 2019.2.15f1 or higher
 New
 {: .label .label-green }
 
-We'll be presenting this project live today (March 22) during the WEVR workshop of the IEEE VR 2020 conference! The Twitch stream is available to everyone: [https://www.twitch.tv/ieeevr2020_wevr](https://www.twitch.tv/ieeevr2020_wevr). We'll be presenting from 4:15PM to 4:30PM Atlanta time (UTC-4).
+- We'll be presenting this project live today (March 22) during the WEVR workshop of the IEEE VR 2020 conference! The Twitch stream is available to everyone: [https://www.twitch.tv/ieeevr2020_wevr](https://www.twitch.tv/ieeevr2020_wevr). We'll be presenting from 4:15PM to 4:30PM Atlanta time (UTC-4).
 
-Join the [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
+- You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
 
 ## Important note
 {: .d-inline-block }

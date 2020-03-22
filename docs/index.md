@@ -19,9 +19,21 @@ For Unity versions: 2019.2.15f1 or higher
 [COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 [COLIBRI VR on the Unity Asset Store](https://assetstore.unity.com/){: .btn .btn-green }
 
-**Join the [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, request features, and more generally discuss any subject related to image-based virtual reality and image-based rendering!**
+## News
+{: .d-inline-block }
+New
+{: .label .label-green }
 
-**Important note: COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.**
+We'll be presenting this project live today (March 22) during the WEVR workshop of the IEEE VR 2020 conference! The Twitch stream is available to everyone: [https://www.twitch.tv/ieeevr2020_wevr](https://www.twitch.tv/ieeevr2020_wevr). We'll be presenting from 4:15PM to 4:30PM Atlanta time (UTC-4).
+
+Join the [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
+
+## Important note
+{: .d-inline-block }
+Important
+{: .label .label-red }
+
+COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.
 
 * * *
 
@@ -75,9 +87,3 @@ Here are the different elements you can find on this documentation website:
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
 
-## News
-{: .d-inline-block }
-New
-{: .label .label-green }
-
-Still working on the documentation. The package has tentatively been uploaded to GitHub, should be uploaded to the asset store soon!

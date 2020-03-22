@@ -10,6 +10,13 @@ nav_order: 2
 
 * * *
 
+## Important note
+{: .d-inline-block }
+Important
+{: .label .label-red }
+
+This section is not yet complete. Tutorial videos should be coming by the end of March 2020. Sorry for the delay!
+
 ## Objectives
 
 The goal of this tutorial is to help you use COLIBRI VR to render view-dependent rendering effects in VR in Unity from a sample set of photographs.
@@ -29,9 +36,3 @@ Before reading the rest of this tutorial, please ensure that you have already pe
 ```
 
 ## Step-by-step
-
-Here is an overview of the steps examined in this tutorial:
-- *Steps A-B:* Using the [Processing](https://caor-mines-paristech.github.io/colibri-vr/core-components/processing) component to transform the source photographs into a 3D scene representation.
-- *Steps Y-Z:* Using the [Rendering](https://caor-mines-paristech.github.io/colibri-vr/core-components/rendering) component to render the representation in VR with view-dependent highlights.
-
-**TODO: This section is not yet complete. Tutorial videos should be coming soon.**

@@ -21,7 +21,7 @@ For Unity versions: 2019.2.15f1 or higher
 * * *
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/thumbnail.png" alt="" width="600" height="600" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
+   <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/V-0004Gif.gif" alt="" width="480" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
 </p>
 
 ## News
@@ -85,8 +85,4 @@ Here are the different elements you can find on this documentation website:
 - The [Shader implementations](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
-
-<p align="center">
-   <img src="https://github.com/goswami-rahul/alien-invasion-game/raw/master/assets/demo.gif" with="1000">
-</p>
 

@@ -87,6 +87,6 @@ Here are the different elements you can find on this documentation website:
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
 
 <p align="center">
-   <img src="https://github.com/goswami-rahul/alien-invasion-game/blob/master/assets/demo.gif" with="1000">
+   <img src="https://github.com/goswami-rahul/alien-invasion-game/raw/master/assets/demo.gif" with="1000">
 </p>
 

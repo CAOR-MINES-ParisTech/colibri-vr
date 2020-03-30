@@ -86,5 +86,7 @@ Here are the different elements you can find on this documentation website:
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
 
-![AltText](https://github.com/goswami-rahul/alien-invasion-game/blob/master/assets/demo.gif)
+<p align="center">
+   <img src="https://github.com/goswami-rahul/alien-invasion-game/blob/master/assets/demo.gif" with="1000">
+</p>
 

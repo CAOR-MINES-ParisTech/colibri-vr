@@ -29,8 +29,6 @@ For Unity versions: 2019.2.15f1 or higher
 New
 {: .label .label-green }
 
-- Are you registered for IEEE VR 2020? If so, you can find us in Hubs! We're presenting a video, a research demo, and a poster on the project. Come see us!
-
 - You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
 
 ## Important note

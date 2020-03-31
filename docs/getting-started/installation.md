@@ -30,10 +30,8 @@ Install [Instant Meshes](https://github.com/wjakob/instant-meshes).
 
 * * * 
 * * * 
-{: .bg-blue-000 }
+{: .bg-blue-000 .mb-4 }
 
-## FAQ
-{: .d-inline-block }
 Frequently asked questions
 {: .label .label-blue }
 
@@ -52,4 +50,4 @@ Additionally, it is important to note that the processing/rendering pipeline is 
 No, these tools are not affiliated in any way with COLIBRI VR. The word *linked* here simply means that the toolkit implements dedicated classes and interface elements for using these tools from within Unity, by way of underlying command-line calls.
 
 * * * 
-{: .bg-blue-000 }
+{: .bg-blue-000 .mt-1 }

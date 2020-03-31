@@ -53,10 +53,10 @@ The `Process source data` button applies the selected processing methods to tran
 The `Bundle processed data` button compresses the processed data into a Unity [Asset Bundle](https://docs.unity3d.com/Manual/AssetBundlesIntro.html) object, for easy loading at render time. Once this method is done executing, a special line is added to the "processing_information.txt" file to indicate the creation of an asset bundle for this dataset.
 
 * * *
-* * *
 
-## FAQ
-{: .d-inline-block }
+* * *
+{: .bg-blue-000 .mb-4 }
+
 Frequently asked questions
 {: .label .label-blue }
 
@@ -65,3 +65,6 @@ Frequently asked questions
 The first process can only be launched from within play mode.
 
 The second process can only be launched from outside play mode. It requires the first step to have been performed, i.e. for the files to exist in the "processed_data" folder.
+
+* * *
+{: .bg-blue-000 .mt-1 }

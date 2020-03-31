@@ -29,6 +29,7 @@ Install [Blender](https://www.blender.org/).
 Install [Instant Meshes](https://github.com/wjakob/instant-meshes).
 
 * * * 
+{: .bg-blue-300 }
 * * * 
 
 ## FAQ

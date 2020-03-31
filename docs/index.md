@@ -5,9 +5,6 @@ permalink: /
 nav_order: 1
 ---
 
-* * *
-{: .bg-grey-dk-000 }
-
 # COLIBRI VR
 {: .fs-9 }
 
@@ -26,19 +23,12 @@ For Unity versions: 2019.2.15f1 or higher
 </p>
 
 * * *
-{: .bg-grey-dk-000 }
-
-* * *
 {: .bg-green-000 }
 
-## News
+### News
 {: .d-inline-block }
 New
 {: .label .label-green }
-
-<div style="outline-color:coral">
-   Hi!
-</div>
 
 - You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
 
@@ -48,7 +38,7 @@ New
 * * *
 {: .bg-red-000 }
 
-## Important note
+### Important note
 {: .d-inline-block }
 Important
 {: .label .label-red}
@@ -57,9 +47,6 @@ Important
 
 * * *
 {: .bg-red-000 }
-
-* * *
-{: .bg-grey-dk-000 }
 
 ## About
 
@@ -106,7 +93,4 @@ Here are the different elements you can find on this documentation website:
 - The [Shader implementations](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
-
-* * *
-{: .bg-grey-dk-000 }
 

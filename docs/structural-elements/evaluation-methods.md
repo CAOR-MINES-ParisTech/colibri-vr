@@ -33,11 +33,14 @@ The `Cb+Cr` error metric is computed in each pixel as the sum of absolute differ
 </p>
 
 * * *
-* * *
 
-## References
-{: .d-inline-block }
+* * *
+{: .bg-purple-000 .mb-4 }
+
 References
 {: .label .label-purple }
 
 <a name="waechter2017">[Waechter et al. 2017]</a> M. Waechter, M. Beljan, S. Fuhrmann, N. Moehrle, J. Kopf, and M. Goesele. *Virtual Rephotography: Novel View Prediction Error for 3D Reconstruction.* ACM Transactions on Graphics, 36(4):1, Jan. 2017. doi: [10.1145/3072959.2999533](https://doi.org/10.1145/3072959.2999533)
+
+* * *
+{: .bg-purple-000 .mt-1 }

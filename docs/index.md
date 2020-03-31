@@ -21,12 +21,12 @@ For Unity versions: 2019.2.15f1 or higher
 
 [COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 
-* * *
-{: .bg-grey-dk-000 }
-
 <p align="center">
    <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/V-0004Gif.gif" alt="" width="480" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
 </p>
+
+* * *
+{: .bg-grey-dk-000 }
 
 * * *
 {: .bg-green-000 }
@@ -35,6 +35,10 @@ For Unity versions: 2019.2.15f1 or higher
 {: .d-inline-block }
 New
 {: .label .label-green }
+
+<div style="outline-color:coral">
+   Hi!
+</div>
 
 - You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
 

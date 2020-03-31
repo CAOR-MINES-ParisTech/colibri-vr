@@ -5,6 +5,9 @@ permalink: /
 nav_order: 1
 ---
 
+* * *
+{: .bg-grey-dk-000 }
+
 # COLIBRI VR
 {: .fs-9 }
 
@@ -19,6 +22,7 @@ For Unity versions: 2019.2.15f1 or higher
 [COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 
 * * *
+{: .bg-grey-dk-000 }
 
 <p align="center">
    <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/V-0004Gif.gif" alt="" width="480" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
@@ -45,10 +49,13 @@ New
 Important
 {: .label .label-red}
 
-COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.
+- COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.
 
 * * *
 {: .bg-red-000 }
+
+* * *
+{: .bg-grey-dk-000 }
 
 ## About
 
@@ -95,4 +102,7 @@ Here are the different elements you can find on this documentation website:
 - The [Shader implementations](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
+
+* * *
+{: .bg-grey-dk-000 }
 

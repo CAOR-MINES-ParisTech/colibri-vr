@@ -23,7 +23,7 @@ For Unity versions: 2019.2.15f1 or higher
 </p>
 
 * * *
-{: .bg-green-000 .mb-2 }
+{: .bg-green-000 .mb-4 }
 News
 {: .label .label-green }
 
@@ -33,7 +33,7 @@ News
 {: .bg-green-000 .mt-1 }
 
 * * *
-{: .bg-red-000 .mb-2  }
+{: .bg-red-000 .mb-4  }
 
 Important note
 {: .label .label-red}

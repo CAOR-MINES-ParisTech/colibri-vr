@@ -36,11 +36,10 @@ Two color schemes can be used. The default color scheme displays all cameras in 
 </p>
 
 * * * 
-* * * 
-{: .bg-blue-000}
 
-## FAQ
-{: .d-inline-block }
+* * * 
+{: .bg-blue-000 .mb-4 }
+
 Frequently asked questions
 {: .label .label-blue }
 
@@ -59,4 +58,4 @@ COLIBRI VR's camera model and Unity's `Camera` component do not have the same ro
 Nonetheless, we did implement methods to transfer a COLIBRI VR camera model's parameters to and from a Unity `Camera`. This is useful for example when using the [Acquisition](https://caor-mines-paristech.github.io/colibri-vr/core-components/acquisition) tool to capture images from synthetic scenes. 
 
 * * * 
-{: .bg-blue-000}
+{: .bg-blue-000 .mt-1 }

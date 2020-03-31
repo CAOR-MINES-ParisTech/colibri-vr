@@ -51,13 +51,16 @@ In a first step, the implemented method computes and stores the blocks' error va
 For both steps of the process, each LOD iteration is computed in parallel on the GPU using the compute shader, ensuring a fast performance. Once the shader has finished computing the output collection of triangles and vertices, this collection is finally transferred to the CPU and used to create a mesh asset.
 
 * * * 
-* * * 
 
-## References
-{: .d-inline-block }
+* * *
+{: .bg-purple-000 .mb-4 }
+
 References
 {: .label .label-purple }
 
 <a name="lee2014">[Lee et al. 2014]</a> E.-S. Lee, J.-H. Lee, and B.-S. Shin. *Bimodal Vertex Splitting: Acceleration of Quadtree Triangulation for Terrain Rendering.* IEICE Transactions on Information and Systems, E97.D(6):1624–1633, 2014. [doi: 10.1587/transinf.e97.d.1624](https://doi.org/10.1587/transinf.e97.d.1624)
 
 <a name="pajarola2004">[Pajarola et al. 2004]</a> R. Pajarola, M. Sainz, and Y. Meng. *DMesh: Fast Depth-Image Meshing and Warping.* International Journal of Image and Graphics, 04(04):653–681, Oct. 2004. [doi: 10.1142/s0219467804001580](https://doi.org/10.1142/s0219467804001580)
+
+* * *
+{: .bg-purple-000 .mt-1 }

@@ -1252,10 +1252,10 @@ Frequently asked questions
 Of course! Feel free to send us the link, and we'll add it to the list as soon as possible. You can find our contact information at the bottom of each page. If you prefer, you can also provide the link by raising an issue on the project's GitHub page.
 
 * * * 
-* * * 
 
-## References
-{: .d-inline-block }
+* * *
+{: .bg-purple-000 .mb-4 }
+
 References
 {: .label .label-purple }
 
@@ -1277,3 +1277,6 @@ References
 <a name="schops2017"> [Schöps et al. 2017] </a> T. Schöps, J. L. Schönberger, S. Galliani, T. Sattler, K. Schindler, M. Pollefeys, and A. Geiger. *A multi-view stereo benchmark with high-resolution images and multi-camera videos.* In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2538–2547, 2017. [doi: 10.1109/CVPR.2017.272](https://doi.org/10.1109/CVPR.2017.272)
 
 <a name="strecha2008"> [Strecha et al. 2008] </a> C. Strecha, W. von Hansen, L. V. Gool, P. Fua, and U. Thoennessen. *On benchmarking camera calibration and multi-view stereo for high resolution imagery.* In 2008 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, June 2008. [doi: 10.1109/cvpr.2008.4587706](https://doi.org/10.1109/cvpr.2008.4587706)
+
+* * *
+{: .bg-purple-000 .mt-1 }

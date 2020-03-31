@@ -23,12 +23,11 @@ For Unity versions: 2019.2.15f1 or higher
 </p>
 
 * * *
-{: .bg-green-000 }
-
+{: .bg-green-000 .mb-1 .pb-1 }
 News
 {: .label .label-green }
 
-- You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
+- Hi! You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
 
 * * *
 {: .bg-green-000 }

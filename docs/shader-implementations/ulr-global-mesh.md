@@ -35,11 +35,14 @@ Because VR requires high framerates for comfortable viewing, the graphical user 
 In vertices where the blending weights have not been updated, the color is given by the previous blending field, stored in a buffer. Each render camera thus has to be assigned a buffer in which to store the blending field for each vertex of the rendered mesh. To this end, this method is implemented using command buffers, and render cameras are assigned a specific script to make sure that the buffers are updated with newly-computed blending weights.
 
 * * * 
-* * * 
 
-## References
-{: .d-inline-block }
+* * *
+{: .bg-purple-000 .mb-4 }
+
 References
 {: .label .label-purple }
 
 <a name="buehler2001">[Buehler et al. 2001]</a> C. Buehler, M. Bosse, L. McMillan, S. Gortler, M. Cohen. *Unstructured Lumigraph Rendering.* SIGGRAPH '01: Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, 2001. [doi: 10.1145/383259.383309](https://doi.org/10.1145/383259.383309)
+
+* * *
+{: .bg-purple-000 .mt-1 }

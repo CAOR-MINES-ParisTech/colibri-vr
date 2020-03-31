@@ -37,9 +37,10 @@ Install [Instant Meshes](https://github.com/wjakob/instant-meshes).
 Frequently asked questions
 {: .label .label-blue }
 
+### Can I run COLIBRI VR on any operating system?
 <details>
   <summary>
-    ### Can I run COLIBRI VR on any operating system?
+    Show
   </summary>  
 COLIBRI VR should work on any operating system supported by the Unity game engine, and the linked external tools provide binaries for Windows, Mac OS X, and Linux. That being said, we have only tested the project on Windows 10, so feel free to provide feedback on this matter.
 </details>

@@ -1240,10 +1240,10 @@ Here is a list of datasets on which to test COLIBRI VR. It notably includes the 
    </table>
 
 * * * 
-* * * 
 
-## FAQ
-{: .d-inline-block }
+* * *
+{: .bg-blue-000 .mb-4 }
+
 Frequently asked questions
 {: .label .label-blue }
 
@@ -1251,7 +1251,8 @@ Frequently asked questions
 
 Of course! Feel free to send us the link, and we'll add it to the list as soon as possible. You can find our contact information at the bottom of each page. If you prefer, you can also provide the link by raising an issue on the project's GitHub page.
 
-* * * 
+* * *
+{: .bg-blue-000 .mt-1 }
 
 * * *
 {: .bg-purple-000 .mb-4 }

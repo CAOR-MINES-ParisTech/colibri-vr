@@ -37,10 +37,13 @@ Install [Instant Meshes](https://github.com/wjakob/instant-meshes).
 Frequently asked questions
 {: .label .label-blue }
 
-### Can I run COLIBRI VR on any operating system?
-
+<details>
+  <summary>
+    ### Can I run COLIBRI VR on any operating system?
+  </summary>  
 COLIBRI VR should work on any operating system supported by the Unity game engine, and the linked external tools provide binaries for Windows, Mac OS X, and Linux. That being said, we have only tested the project on Windows 10, so feel free to provide feedback on this matter.
-
+</details>
+  
 ### Do I need a special setup to run COLIBRI VR?
 
 A CUDA-enabled GPU is required if you wish to perform dense reconstruction via COLMAP, but is not necessary otherwise. 
@@ -50,3 +53,7 @@ Additionally, it is important to note that the processing/rendering pipeline is 
 ### Is the project affiliated with any or all of the linked external tools?
 
 No, these tools are not affiliated in any way with COLIBRI VR. The word *linked* here simply means that the toolkit implements dedicated classes and interface elements for using these tools from within Unity, by way of underlying command-line calls.
+
+
+* * * 
+{: .bg-blue-000 }

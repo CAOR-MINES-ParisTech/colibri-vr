@@ -49,13 +49,16 @@ The images, as well as setup and camera parameters, are then stored to a directo
 The final section of the component's graphical user interface enables the user to select the output directory, and to launch acquisition at the click of a button. Note that the output directory should be seen as the root directory of the dataset, not the "images" folder itself (see the [File structure](https://caor-mines-paristech.github.io/colibri-vr/documentation/file-structure) page).
 
 * * *
-* * *
 
-## FAQ
-{: .d-inline-block }
+* * *
+{: .bg-blue-000 .mb-4 }
+
 Frequently asked questions
 {: .label .label-blue }
 
 ### Why is the capture button greyed out?
 
 The acquisition process can only be performed from within play mode. Launch play mode to be able to click on the button.
+
+* * *
+{: .bg-blue-000 .mt-1 }

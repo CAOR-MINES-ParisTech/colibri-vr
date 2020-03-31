@@ -45,13 +45,16 @@ The second specifies additional rendering parameters, such as the initial positi
 Both files are created automatically during processing. They should not be modified manually.
 
 * * *
-* * *
 
-## FAQ
-{: .d-inline-block }
+* * *
+{: .bg-blue-000 .mb-4 }
+
 Frequently asked questions
 {: .label .label-blue }
 
 ### The position and orientation parameters stored in the images.txt file do not match the setup displayed in the Unity scene view, is this normal?
 
 Yes, the coordinate systems of COLMAP and Unity do not share the same conventions, so an operation has to be performed to convert from one to the other. The positions and orientations stored in the `images.txt` file match COLMAP's coordinate system. They are converted to Unity's coordinate system when the project reads the file to get these parameters.
+
+* * *
+{: .bg-blue-000 .mt-1 }

@@ -10,12 +10,16 @@ nav_order: 2
 
 * * *
 
-## Important note
-{: .d-inline-block }
-Important
+* * *
+{: .bg-red-000 .mb-4}
+
+Important note
 {: .label .label-red }
 
 This section is not yet complete. Tutorial videos should be coming by the end of March 2020. Sorry for the delay!
+
+* * *
+{: .bg-red-000 .mt-1}
 
 ## List of tutorial videos
 

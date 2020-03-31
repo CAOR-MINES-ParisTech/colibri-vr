@@ -14,9 +14,15 @@ nav_order: 5
 
 In order to evaluate the quality of a rendering solution, one typically compares, for each image in multiple datasets, the view rendered in the source camera's position with the original image (the source image itself being excluded for rendering). This comparison is typically quantified using per-pixel error metrics.
 
+* * *
+{: .bg-yellow-000 .mb-4 }
+
 Work-in-progress
 {: .label .label-yellow }
 - COLIBRI VR does not yet enable obtaining a quantitative evaluation value for a given rendering solution, that would be obtained as an average value over multiple datasets (e.g. virtual rephotography, see <a href="#waechter2017">[Waechter et al. 2017]</a>). The project currently implements evaluation metrics for visualization purposes only.
+
+* * *
+{: .bg-yellow-000 .mt-1 }
 
 ## Cb+Cr
 

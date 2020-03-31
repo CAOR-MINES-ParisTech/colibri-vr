@@ -25,9 +25,7 @@ For Unity versions: 2019.2.15f1 or higher
 * * *
 {: .bg-green-000 }
 
-### News
-{: .d-inline-block }
-New
+News
 {: .label .label-green }
 
 - You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
@@ -38,9 +36,7 @@ New
 * * *
 {: .bg-red-000 }
 
-### Important note
-{: .d-inline-block }
-Important
+Important note
 {: .label .label-red}
 
 - COLIBRI VR is not yet available on the Unity Asset Store, and tutorial videos still have to be uploaded. Expected time of arrival for these features: end of March 2020. We recommend waiting for these steps to be completed before using the project: nonetheless, for those wanting to try out the current version, we have already made the source code acessible [via GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/), from which it can be loaded as a Unity package.

@@ -30,4 +30,4 @@ This section is not yet complete. Tutorial videos should be coming by the end of
 
 ### Using the core components
 
-1. [Capturing photographs of virtual scenes in Unity using the Acquisition component](https://youtu.be/wshL70EglEc)
+3. [Capturing photographs of virtual scenes in Unity using the Acquisition component](https://youtu.be/wshL70EglEc)

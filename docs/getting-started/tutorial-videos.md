@@ -26,16 +26,11 @@ More tutorial videos are coming soon. Thank you for your patience!
 ### Getting started
 
 <p>
-  1. <a href="https://youtu.be/X5kTmxQ_WgE">Installing the COLIBRI VR Unity package from GitHub</a>
+  1. <a href="https://youtu.be/X5kTmxQ_WgE">Installing the COLIBRI VR Unity package from GitHub</a><br><br>
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/X5kTmxQ_WgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+  2. <a href="https://youtu.be/Jc2Iyk1iY7Y">Linking COLIBRI VR to external reconstruction tools</a><br><br>
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/Jc2Iyk1iY7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 </p>
-
-<iframe width="720" height="405" src="https://www.youtube.com/embed/X5kTmxQ_WgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p>
-  2. <a href="https://youtu.be/Jc2Iyk1iY7Y">Linking COLIBRI VR to external reconstruction tools</a>
-</p>
-
-<iframe width="720" height="405" src="https://www.youtube.com/embed/Jc2Iyk1iY7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Using the core components
 

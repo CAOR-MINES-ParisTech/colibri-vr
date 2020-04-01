@@ -32,3 +32,4 @@ More tutorial videos are coming soon. Thank you for your patience!
 
 {:start="3"}
 3. [Capturing photographs of virtual scenes in Unity using the Acquisition component](https://youtu.be/wshL70EglEc)
+4. [Transforming input photographs into 3D assets ready for rendering](https://youtu.be/9_KNvYMCEVs)

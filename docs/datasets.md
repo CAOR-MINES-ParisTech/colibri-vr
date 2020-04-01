@@ -1273,7 +1273,7 @@ References
 <a name="knapitsch2017"> [Knapitsch et al. 2017] </a> A. Knapitsch, J. Park, Q.-Y. Zhou, and V. Koltun. *Tanks and temples: benchmarking large-scale scene reconstruction.* ACM Transactions on Graphics (TOG), vol. 36, no. 4, pp. 78:1–78:13, Jul. 2017. [doi: 10.1145/3072959.3073599](https://doi.org/10.1145/3072959.3073599)
 
 
-<a name="schonberger2016"> [Schönberger et al. 2016] </a> J. L. Schönberger and J.-M. Frahm. *Structure-from-motion revisited.* In 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, June 2016. [doi: 10.1109/cvpr.2016.445](https://doi.org/10.1109/cvpr.2016.445)
+<a name="schonberger2016"> [Schönberger and Frahm 2016] </a> J. L. Schönberger and J.-M. Frahm. *Structure-from-motion revisited.* In 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, June 2016. [doi: 10.1109/cvpr.2016.445](https://doi.org/10.1109/cvpr.2016.445)
 
 <a name="schops2017"> [Schöps et al. 2017] </a> T. Schöps, J. L. Schönberger, S. Galliani, T. Sattler, K. Schindler, M. Pollefeys, and A. Geiger. *A multi-view stereo benchmark with high-resolution images and multi-camera videos.* In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2538–2547, 2017. [doi: 10.1109/CVPR.2017.272](https://doi.org/10.1109/CVPR.2017.272)
 

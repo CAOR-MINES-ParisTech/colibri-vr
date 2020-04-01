@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Tutorial
-permalink: /getting-started/tutorial
+title: Tutorial videos
+permalink: /getting-started/tutorial-videos
 parent: Getting started
 nav_order: 2
 ---
 
-# Tutorial
+# Tutorial videos
 
 * * *
 
 * * *
-{: .bg-red-000 .mb-4}
+{: .bg-yellow-000 .mb-4}
 
-Important note
-{: .label .label-red }
+Work-in-progress
+{: .label .label-yellow }
 
-This section is not yet complete. Tutorial videos should be coming by the end of March 2020. Sorry for the delay!
+More tutorial videos are coming soon. Thank you for your patience!
 
 * * *
-{: .bg-red-000 .mt-1}
+{: .bg-yellow-000 .mt-1}
 
 ## List of tutorial videos
 

@@ -23,13 +23,12 @@ More tutorial videos are coming soon. Thank you for your patience!
 
 ## List of tutorial videos
 
-### Getting started
+ ### Getting started
 
 1. [Installing the COLIBRI VR Unity package from GitHub](https://youtu.be/X5kTmxQ_WgE)
 2. [Linking COLIBRI VR to external reconstruction tools](https://youtu.be/Jc2Iyk1iY7Y)
 
-### Using the core components
+ ### Using the core components
 
-{:start="3"}
 3. [Capturing photographs of virtual scenes in Unity using the Acquisition component](https://youtu.be/wshL70EglEc)
 4. [Transforming input photographs into 3D assets ready for rendering](https://youtu.be/9_KNvYMCEVs)

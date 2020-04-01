@@ -19,7 +19,8 @@ For Unity versions: 2019.2.15f1 or higher
 [COLIBRI VR on GitHub](https://github.com/caor-mines-paristech/colibri-vr-unity-package/){: .btn .btn-blue }
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?feature=player_embedded&v=HtJarul_32c" target="_blank"><img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/V-0004Gif.gif" alt="" width="480" /></a><br><i>Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a></i>
+   <iframe width="720" height="405" src="https://www.youtube.com/embed/HtJarul_32c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a>
 </p>
 
 * * *

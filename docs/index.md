@@ -33,7 +33,7 @@ News
 {: .bg-green-000 .mt-1 }
 
 * * *
-{: .bg-yellow-000 .mb-4  }
+{: .bg-yellow-300 .mb-4  }
 
 Work-in-progress
 {: .label .label-yellow}
@@ -43,7 +43,7 @@ Work-in-progress
 - The project is still very much in a beta phase, so we are currently waiting to get a little more feedback before putting it on the Asset Store.
 
 * * *
-{: .bg-yellow-000 .mt-1 }
+{: .bg-yellow-300 .mt-1 }
 
 ## About
 

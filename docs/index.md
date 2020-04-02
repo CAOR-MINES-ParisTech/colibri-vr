@@ -40,7 +40,7 @@ Work-in-progress
 {: .label .label-yellow}
 
 - Tutorial videos are gradually making their way to the [Tutorial videos](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos) page. Thank you for your patience!
-- The package can currently be loaded into a Unity project by using the Package Manager window and adding the package from its [GitHub page](https://github.com/caor-mines-paristech/colibri-vr-unity-package/). Details on this process can be found in the first tutorial video (see the [Tutorial videos](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos) page).
+- The package can currently be loaded into a Unity project by using the Package Manager window and adding the package from its [GitHub page](https://github.com/caor-mines-paristech/colibri-vr-unity-package/). Details on this process can be found in the [first tutorial video](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#1-installing-the-colibri-vr-unity-package-from-github).
 - The project is still very much in a beta phase, so we are currently waiting to get a little more feedback before putting it on the Asset Store.
 
 * * *

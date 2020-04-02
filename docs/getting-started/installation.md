@@ -15,6 +15,17 @@ nav_order: 1
 1. Install the [Unity game engine](https://unity.com/).
 2. Use the Unity package manager to add the package from COLIBRI VR's [Git page](https://github.com/caor-mines-paristech/colibri-vr-unity-package/). If you do not have Git, you can simply download the package from Git and manually add it into Unity using the package manager.
 
+* * * 
+{: .bg-green-000 .mb-4 }
+
+There's a tutorial for this!
+{: .label .label-green }
+
+The video tutorial for installing the package from GitHub can be found [here](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#1-installing-the-colibri-vr-unity-package-from-github).
+
+* * * 
+{: .bg-green-000 .mt-1 }
+
 ## Optional steps: linked external tools
 
 Using the toolkit's graphical user interface, several external tools can be used from within Unity as part of COLIBRI VR's processing pipeline (see [this section](https://caor-mines-paristech.github.io/colibri-vr/core-components/processing#external-processing-helpers) of the Processing page for more details). These tools have to be installed separately. For simplicity, we recommend downloading the pre-built binaries.
@@ -29,6 +40,18 @@ Install [Blender](https://www.blender.org/).
 Install [Instant Meshes](https://github.com/wjakob/instant-meshes).
 
 * * * 
+{: .bg-green-000 .mb-4 }
+
+There's a tutorial for this!
+{: .label .label-green }
+
+The video tutorial for linking the package to external tools can be found [here](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#2-linking-colibri-vr-to-external-reconstruction-tools).
+
+* * * 
+{: .bg-green-000 .mt-1 }
+
+* * * 
+
 * * * 
 {: .bg-blue-000 .mb-4 }
 

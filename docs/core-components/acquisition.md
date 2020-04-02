@@ -23,6 +23,17 @@ The images, as well as setup and camera parameters, are then stored to a directo
       <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/BunnyAcquisition2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Acquisition component.</i>
 </p>
 
+* * * 
+{: .bg-green-000 .mb-4 }
+
+There's a tutorial for this!
+{: .label .label-green }
+
+The video tutorial for using the Acquisition component can be found [here](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#3-capturing-photographs-of-virtual-scenes-in-unity-using-the-acquisition-component).
+
+* * * 
+{: .bg-green-000 .mt-1 }
+
 ## Acquisition setup
 
 - `Type`: This parameter can take two values:

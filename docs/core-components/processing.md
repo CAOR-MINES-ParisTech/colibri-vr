@@ -18,6 +18,17 @@ The `Processing` component is used to transform the input set of photographs int
       <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/TerrainsProcessing2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Processing component.</i>
 </p>
 
+* * * 
+{: .bg-green-000 .mb-4 }
+
+There's a tutorial for this!
+{: .label .label-green }
+
+The video tutorial for using the Processing component can be found [here](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#4-transforming-input-photographs-into-3d-assets-ready-for-rendering).
+
+* * * 
+{: .bg-green-000 .mt-1 }
+
 ## Source data
 
 The component's graphical user interface starts with a section enabling the user to choose the input data directory. This section also provides information on what the selected directory contains, which can be useful to quickly check that the correct directory has been selected, and that it contains all of the required data.

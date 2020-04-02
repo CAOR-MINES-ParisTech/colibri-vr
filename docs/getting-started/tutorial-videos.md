@@ -7,6 +7,9 @@ nav_order: 2
 ---
 
 # Tutorial videos
+{: .d-inline-block }
+There's a tutorial for this!
+{: .label .label-green }
 
 * * *
 

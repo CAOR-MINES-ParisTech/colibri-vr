@@ -21,18 +21,23 @@ More tutorial videos are coming soon. Thank you for your patience!
 * * *
 {: .bg-yellow-300 .mt-1}
 
-## List of tutorial videos
+## Getting started - installing the toolkit
 
-### Getting started - installing the toolkit
+### 1. Installing the COLIBRI VR Unity package from GitHub
 
-<p>
-  1. <a href="https://youtu.be/X5kTmxQ_WgE">Installing the COLIBRI VR Unity package from GitHub</a><br>
-  <iframe width="720" height="405" src="https://www.youtube.com/embed/X5kTmxQ_WgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-  2. <a href="https://youtu.be/Jc2Iyk1iY7Y">Linking COLIBRI VR to external reconstruction tools</a><br>
-  <iframe width="720" height="405" src="https://www.youtube.com/embed/Jc2Iyk1iY7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/X5kTmxQ_WgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/X5kTmxQ_WgE">on YouTube</a>
 </p>
 
-### Using the core components - 3-part tutorial using sample images of a virtual object
+### 2. Linking COLIBRI VR to external reconstruction tools
+
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/Jc2Iyk1iY7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/Jc2Iyk1iY7Y">on YouTube</a>
+</p>
+
+## Using the core components - 3-part tutorial using sample images of a virtual object
 
 <p>
   3. <a href="https://youtu.be/wshL70EglEc">Capturing photographs of virtual scenes in Unity using the Acquisition component</a><br>

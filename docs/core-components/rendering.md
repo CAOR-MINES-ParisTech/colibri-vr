@@ -18,6 +18,17 @@ The `Rendering` component is used to load the assets in the processed bundle and
       <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/TerrainsRendering2.png" alt="" width="1280" height="720"><br><i>Graphical user interface of the Rendering component.</i>
 </p>
 
+* * * 
+{: .bg-green-000 .mb-4 }
+
+There's a tutorial for this!
+{: .label .label-green }
+
+The video tutorial for using the Rendering component can be found [here](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#5-rendering-light-fields-and-per-view-meshes).
+
+* * * 
+{: .bg-green-000 .mt-1 }
+
 ## Rendering methods
 
 ### Textured surfaces

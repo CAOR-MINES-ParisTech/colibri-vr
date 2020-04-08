@@ -63,3 +63,14 @@ More tutorial videos are coming soon. Thank you for your patience!
    Watch the video <a href="https://youtu.be/xcOn0i20Bjg">on YouTube</a><br>
 </p>
 
+## Full pipeline tutorials - testing the toolkit on online datasets
+
+### 6. Rendering the Amethyst dataset from the Stanford Light Field Archive as an interactive light field in Unity
+
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/hLzmGDVb538" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/hLzmGDVb538">on YouTube</a><br>
+</p>
+
+
+

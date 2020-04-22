@@ -79,4 +79,19 @@ More tutorial videos are coming soon. Thank you for your patience!
    Watch the video <a href="https://youtu.be/W3lFwb-ZVPk">on YouTube</a><br>
 </p>
 
+## Rendering the Terrains dataset from the ETH3D benchmark - 2-part tutorial
+
+### 8. Using the interface with COLMAP to perform 3D reconstruction
+
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/UO4Bl9tL8LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/UO4Bl9tL8LY">on YouTube</a><br>
+</p>
+
+### 9. Using unstructured lumigraph rendering to render the 3D mesh with view-dependent effects
+
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/xrK59lL8wjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/xrK59lL8wjk">on YouTube</a><br>
+</p>
 

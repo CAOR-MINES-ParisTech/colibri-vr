@@ -13,17 +13,6 @@ There's a tutorial for this!
 
 * * *
 
-* * *
-{: .bg-yellow-300 .mb-4}
-
-Work-in-progress
-{: .label .label-yellow }
-
-More tutorial videos are coming soon. Thank you for your patience!
-
-* * *
-{: .bg-yellow-300 .mt-1}
-
 ## Getting started - installing the toolkit
 
 ### 1. Installing the COLIBRI VR Unity package from GitHub

@@ -63,14 +63,20 @@ More tutorial videos are coming soon. Thank you for your patience!
    Watch the video <a href="https://youtu.be/xcOn0i20Bjg">on YouTube</a><br>
 </p>
 
-## Full pipeline tutorials - testing the toolkit on online datasets
+## Rendering the Amethyst dataset from the Stanford Light Field Archive - 2-part tutorial
 
-### 6. Rendering the Amethyst dataset from the Stanford Light Field Archive
+### 6. Using the Stanford Light Field Helper component to recover the camera setup information
 
 <p align="center">
-  <iframe width="720" height="405" src="https://www.youtube.com/embed/hLzmGDVb538" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-   Watch the video <a href="https://youtu.be/hLzmGDVb538">on YouTube</a><br>
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/HEZ65VzYWGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/HEZ65VzYWGk">on YouTube</a><br>
 </p>
 
+### 7. Using disk-based blending to render the light field
+
+<p align="center">
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/W3lFwb-ZVPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   Watch the video <a href="https://youtu.be/W3lFwb-ZVPk">on YouTube</a><br>
+</p>
 
 

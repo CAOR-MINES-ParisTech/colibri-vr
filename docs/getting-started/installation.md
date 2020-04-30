@@ -64,7 +64,7 @@ COLIBRI VR should work on any operating system supported by the Unity game engin
   
 ### Do I need a special setup to run COLIBRI VR?
 
-A CUDA-enabled GPU is required if you wish to perform dense reconstruction via COLMAP, but is not necessary otherwise. 
+A [CUDA-enabled GPU](https://developer.nvidia.com/cuda-gpus) is [required](https://colmap.github.io/faq.html?highlight=cuda#available-functionality-without-gpu-cuda) if you wish to perform dense reconstruction via COLMAP, but is not necessary otherwise. 
 
 Additionally, it is important to note that the processing/rendering pipeline is often performance-intensive in terms of GPU memory. Make sure to monitor memory during troubleshooting.
 

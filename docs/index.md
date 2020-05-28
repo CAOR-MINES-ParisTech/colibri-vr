@@ -77,8 +77,6 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
 
-<ul>{% for contributor in site.github.contributors %}<li><a href="{{ contributor.html_url }}">{{ contributor.login }}</a></li>{% endfor %}</ul>
-
 ## License
 
 The project is released under an [MIT license](https://github.com/caor-mines-paristech/colibri-vr-unity-package/blob/master/LICENSE.md).

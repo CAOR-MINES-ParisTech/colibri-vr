@@ -67,7 +67,7 @@ The toolkit was developed by [Grégoire Dupont de Dinechin](http://greg3dinechi
 
 This project was also presented during the conference's main event by way of a poster, video submission, and research demonstration. The complete list of publications related to COLIBRI VR can be found [here](http://greg3dinechin.com/publications).
 
-## Contributors 
+## Contributors
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -76,6 +76,8 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
 </ul>
+
+<ul>{% for contributor in site.github.contributors %}<li><a href="{{ contributor.html_url }}">{{ contributor.login }}</a></li>{% endfor %}</ul>
 
 ## License
 

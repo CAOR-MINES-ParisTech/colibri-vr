@@ -80,11 +80,9 @@ This project was also presented during the conference's main event by way of a p
 -->
 
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-<div id="contributors_json"></div>
 <script>
     $().ready(function(){
         $.getJSON("https://api.github.com/repos/CAOR-MINES-ParisTech/colibri-vr-unity-package/contributors", function(data) {
-              console.log(data);
               var items = [];
               $.each( data, function( key, val ) {
                 items.push("<li class=\\"d-inline-block mr-1\\"><a href=\\"" + val["html_url"] + "\\"><img src=\\"" + val["avatar_url"] + "\\" width=\\"32\\" height=\\"32\\" alt=\\"" + val["login"] + "\\"/></a></li>");
@@ -92,7 +90,7 @@ This project was also presented during the conference's main event by way of a p
               $( "<ul/>", {
                 "class": "list-style-none",
                 html: items.join("")
-              }).appendTo("#contributors_json");
+              }).appendTo("#contributors");
       });
     });
 </script>

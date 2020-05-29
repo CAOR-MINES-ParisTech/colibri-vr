@@ -28,7 +28,11 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-  - externaljson
+  - jekyll-get-json
+  
+jekyll_get_json:
+  - data: contributors_json
+    json: 'https://api.github.com/repos/CAOR-MINES-ParisTech/colibri-vr-unity-package/contributors'
   
 # Footer
 footer_content: "Contact: Grégoire Dupont de Dinechin, Alexis Paljic - <a href=\"mailto:gregoire@dinechin.org\">gregoire@dinechin.org</a>, <a href=\"mailto:alexis.paljic@mines-paristech.fr\">alexis.paljic@mines-paristech.fr</a>"

@@ -76,6 +76,12 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
    
+{% for repository in site.github.public_repositories %}
+   {% if repository.name == "colibri-vr" %}
+      repository.contributors_url
+   {% endif %}
+{% endfor %}
+   
 </ul>
 
 ## License

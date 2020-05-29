@@ -78,7 +78,9 @@ This project was also presented during the conference's main event by way of a p
    
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
-      {{ repository.contributors_url }}
+      {% for json_data in repository.contributors_url %}
+         {{ json_data }}
+      {% endfor %}
    {% endif %}
 {% endfor %}
    

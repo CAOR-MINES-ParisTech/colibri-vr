@@ -77,7 +77,7 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
   
-WIP iteration 26
+WIP iteration 27
 
 <!---
 {% for repository in site.github.public_repositories %}
@@ -96,11 +96,11 @@ WIP iteration 26
               console.log(data);
               var items = [];
               $.each( data, function( key, val ) {
-                items.push( "<li id='" + key + "'>" + val + "</li>" );
+                items.push("<li>" + val["login"] + "</li>");
               });
               $( "<ul/>", {
-                "class": "my-new-list",
-                html: items.join( "" )
+                "class": "list-style-none",
+                html: items.join("")
               }).appendTo("#contributors");
       });
     });

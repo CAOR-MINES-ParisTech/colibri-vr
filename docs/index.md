@@ -80,6 +80,7 @@ This project was also presented during the conference's main event by way of a p
 -->
 
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<div id="contributors_json"></div>
 <script>
     $().ready(function(){
         $.getJSON("https://api.github.com/repos/CAOR-MINES-ParisTech/colibri-vr-unity-package/contributors", function(data) {
@@ -90,7 +91,7 @@ This project was also presented during the conference's main event by way of a p
               $( "<ul/>", {
                 "class": "list-style-none",
                 html: items.join("")
-              }).appendTo("#contributors");
+              }).appendTo("#contributors_json");
       });
     });
 </script>

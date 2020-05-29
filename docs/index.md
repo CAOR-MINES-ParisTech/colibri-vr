@@ -77,7 +77,7 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
   
-WIP iteration 27
+WIP iteration 28
 
 <!---
 {% for repository in site.github.public_repositories %}
@@ -96,7 +96,7 @@ WIP iteration 27
               console.log(data);
               var items = [];
               $.each( data, function( key, val ) {
-                items.push("<li>" + val["login"] + "</li>");
+                items.push("<li class=\"d-inline-block mr-1\"><a href=\"" + val["html_url"] + "\"><img src=\"" + val["avatar_url"] + "\" width=\"32\" height=\"32\" alt=\"" + val["login"] + "\"/></a></li>");
               });
               $( "<ul/>", {
                 "class": "list-style-none",

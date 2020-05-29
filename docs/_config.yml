@@ -21,7 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
-repository: CAOR-MINES-ParisTech/colibri-vr-unity-package
 
 # Build settings
 markdown: kramdown

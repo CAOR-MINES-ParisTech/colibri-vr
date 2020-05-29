@@ -75,11 +75,13 @@ This project was also presented during the conference's main event by way of a p
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
   </li>
 {% endfor %}
-   
+  
+WIP : Testing use of external plugin.
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
-      {% for json_data in repository.contributors_url %}
-         {{ json_data }}
+      {% externalJSON data from url repository.contributors_url %}
+      {% for entry in data %}
+        {{ entry.type }}
       {% endfor %}
    {% endif %}
 {% endfor %}

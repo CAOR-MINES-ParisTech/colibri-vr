@@ -76,10 +76,14 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP : Testing use of external plugin.
+WIP 2 : Testing use of external plugin.
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
       {{ repository.contributors_url }}
+         $.getJSON("https://bioinfobot.github.io/data/2017-05.json")
+             .done(function( data ) {
+                console.log(data)
+          });
    {% endif %}
 {% endfor %}
    

@@ -77,13 +77,7 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
   
-WIP iteration 25
-{{ site.PAGES_REPO_NWO }}
-{{ PAGES_REPO_NWO }}
-{{ site.repository }}
-{{ site.github.repository_url }}
-{{ site.github.repository_nwo }}
-{{ site.github.repository_name }}
+WIP iteration 26
 
 <!---
 {% for repository in site.github.public_repositories %}
@@ -93,17 +87,24 @@ WIP iteration 25
        {$ endcapture $}
    {% endif %}
 {% endfor %}
+-->
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<div id="contributors"></div>
 <script>
     $().ready(function(){
         $.getJSON("https://api.github.com/repos/CAOR-MINES-ParisTech/colibri-vr-unity-package/contributors", function(data) {
-        console.log(data);
-        $("#contributors_json").html(data["0"]["login"]);
+              console.log(data);
+              var items = [];
+              $.each( data, function( key, val ) {
+                items.push( "<li id='" + key + "'>" + val + "</li>" );
+              });
+              $( "<ul/>", {
+                "class": "my-new-list",
+                html: items.join( "" )
+              }).appendTo("#contributors");
       });
     });
 </script>
-{$ id="contributors_json" $}
--->
 
 ## License
 

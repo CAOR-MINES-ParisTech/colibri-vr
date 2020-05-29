@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: jekyllrb
 # github_username: jekyll
 repository: CAOR-MINES-ParisTech/colibri-vr-unity-package
+PAGES_REPO_NWO: CAOR-MINES-ParisTech/colibri-vr-unity-package
 
 # Build settings
 markdown: kramdown

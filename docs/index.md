@@ -80,6 +80,13 @@ This project was also presented during the conference's main event by way of a p
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
       [{{ repository.name }}]({{ repository.html_url }})
+      {{ repository.contributors }}
+      {{ repository.github.contributors }}
+      {% for contributor in repository.contributors %}
+        <li class="d-inline-block mr-1">
+           <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+        </li>
+      {% endfor %}
    {% endif %}
 {% endfor %}
    

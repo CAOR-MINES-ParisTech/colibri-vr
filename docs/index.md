@@ -77,7 +77,9 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
   
-WIP iteration 24
+WIP iteration 25
+{{ site.PAGES_REPO_NWO }}
+{{ PAGES_REPO_NWO }}
 {{ site.repository }}
 {{ site.github.repository_url }}
 {{ site.github.repository_nwo }}

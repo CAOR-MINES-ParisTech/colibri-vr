@@ -92,7 +92,7 @@ This project was also presented during the conference's main event by way of a p
               $( "<ul/>", {
                 "class": "list-style-none",
                 html: items.join("")
-              }).appendTo("#contributors");
+              }).appendTo(".contributors");
       });
     });
 </script>

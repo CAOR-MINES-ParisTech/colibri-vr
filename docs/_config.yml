@@ -28,6 +28,7 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+  - externaljson
   
 # Footer
 footer_content: "Contact: Grégoire Dupont de Dinechin, Alexis Paljic - <a href=\"mailto:gregoire@dinechin.org\">gregoire@dinechin.org</a>, <a href=\"mailto:alexis.paljic@mines-paristech.fr\">alexis.paljic@mines-paristech.fr</a>"

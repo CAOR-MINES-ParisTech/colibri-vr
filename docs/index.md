@@ -78,7 +78,9 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
    
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+   {% if repository.name == "colibri-vr" %}
+      [{{ repository.name }}]({{ repository.html_url }})
+   {% endif %}
 {% endfor %}
    
 </ul>

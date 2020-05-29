@@ -77,7 +77,11 @@ This project was also presented during the conference's main event by way of a p
 {% endfor %}
 </ul>
   
-WIP iteration 23
+WIP iteration 24
+{{ site.repository }}
+{{ site.github.repository_url }}
+{{ site.github.repository_nwo }}
+{{ site.github.repository_name }}
 
 <!---
 {% for repository in site.github.public_repositories %}

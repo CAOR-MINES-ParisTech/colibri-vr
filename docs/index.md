@@ -76,10 +76,14 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 10
+WIP iteration 11
 
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-<script  type="text/plain" src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/javascript/demo.js"></script>
+<script>
+   $().ready(function() {
+      $("#text").html("Text added by jQuery code.");
+   });
+</script>
 <div id="text"></div>
 
 {% for repository in site.github.public_repositories %}

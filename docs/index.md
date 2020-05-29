@@ -69,6 +69,7 @@ This project was also presented during the conference's main event by way of a p
 
 ## Contributors
 
+<!---
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
@@ -76,18 +77,8 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
 </ul>
-  
-WIP iteration 28
-
-<!---
-{% for repository in site.github.public_repositories %}
-   {% if repository.name == "colibri-vr" %}
-      {$ capture contributors_url $}
-         {{ repository.contributors_url }}
-       {$ endcapture $}
-   {% endif %}
-{% endfor %}
 -->
+
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 <div id="contributors"></div>
 <script>

@@ -76,13 +76,16 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 11
+WIP iteration 12
 
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
-   $().ready(function() {
-      $("#text").html("Text added by jQuery code.");
-   });
+    $().ready(function(){
+        $.getJSON("https://bioinfobot.github.io/data/2017-05.json", function(data) {
+        console.log(data);
+        $("#text").html(data["PopularLanguages"]);
+      });
+    });
 </script>
 <div id="text"></div>
 

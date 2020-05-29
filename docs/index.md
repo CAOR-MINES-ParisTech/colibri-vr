@@ -79,10 +79,13 @@ This project was also presented during the conference's main event by way of a p
 WIP : Testing use of external plugin.
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
+      {{ repository.contributors_url }}
+      <!---
       {% externalJSON data from url repository.contributors_url %}
       {% for entry in data %}
         {{ entry.type }}
       {% endfor %}
+      -->
    {% endif %}
 {% endfor %}
    

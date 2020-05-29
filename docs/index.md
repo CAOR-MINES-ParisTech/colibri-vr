@@ -76,7 +76,7 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 16
+WIP iteration 17
 
 <!---
 {% for repository in site.github.public_repositories %}
@@ -97,7 +97,11 @@ WIP iteration 16
       });
     });
 </script>
-<div id="text"></div>
+{$ capture contributors_json $}
+   <div id="text"></div>
+{$ endcapture $}
+
+{{ contributors_json }}
    
 </ul>
 

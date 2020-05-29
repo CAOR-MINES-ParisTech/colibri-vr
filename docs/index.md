@@ -77,9 +77,13 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
 
+site.github.public_repositories
+{{ site.github.public_repositories }}
+site.github.public_repositories.contributors_url
 {{ site.github.public_repositories.contributors_url }}
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
+      repository.name
       {{ repository.contributors }}
       {{ repository.github.contributors }}
       {% for contributor in repository.contributors %}

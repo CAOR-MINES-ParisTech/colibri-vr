@@ -76,12 +76,11 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 3
+WIP iteration 5
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/javascript/demo.js"></script>
 <div id="text"></div>
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
 
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}

@@ -76,7 +76,7 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 15
+WIP iteration 16
 
 <!---
 {% for repository in site.github.public_repositories %}
@@ -93,7 +93,7 @@ WIP iteration 15
     $().ready(function(){
         $.getJSON("https://api.github.com/repos/CAOR-MINES-ParisTech/colibri-vr-unity-package/contributors", function(data) {
         console.log(data);
-        $("#text").html(data["0"]);
+        $("#text").html(data["0"]["login"]);
       });
     });
 </script>

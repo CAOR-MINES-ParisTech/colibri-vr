@@ -76,10 +76,10 @@ This project was also presented during the conference's main event by way of a p
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
   </li>
 {% endfor %}
-   
+
+{{ site.github.public_repositories.contributors_url }}
 {% for repository in site.github.public_repositories %}
    {% if repository.name == "colibri-vr" %}
-      [{{ repository.name }}]({{ repository.html_url }})
       {{ repository.contributors }}
       {{ repository.github.contributors }}
       {% for contributor in repository.contributors %}

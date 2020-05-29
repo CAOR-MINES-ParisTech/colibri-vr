@@ -76,24 +76,26 @@ This project was also presented during the conference's main event by way of a p
   </li>
 {% endfor %}
   
-WIP iteration 12
+WIP iteration 13
+
+{% for repository in site.github.public_repositories %}
+   {% if repository.name == "colibri-vr" %}
+      {$ capture contributors_url $}
+         {{ repository.contributors_url }}
+       {$ endcapture $}
+   {% endif %}
+{% endfor %}
 
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
     $().ready(function(){
-        $.getJSON("https://bioinfobot.github.io/data/2017-05.json", function(data) {
+        $.getJSON( {{ contributors_url }}, function(data) {
         console.log(data);
-        $("#text").html(data["PopularLanguages"]);
+        $("#text").html(data);
       });
     });
 </script>
 <div id="text"></div>
-
-{% for repository in site.github.public_repositories %}
-   {% if repository.name == "colibri-vr" %}
-      {{ repository.contributors_url }}
-   {% endif %}
-{% endfor %}
    
 </ul>
 

@@ -26,12 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 markdown: kramdown
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
-color_scheme: custom_scheme
 plugins:
   - jekyll-feed
   
 # Footer
 footer_content: "Contact: Grégoire Dupont de Dinechin, Alexis Paljic - <a href=\"mailto:gregoire@dinechin.org\">gregoire@dinechin.org</a>, <a href=\"mailto:alexis.paljic@mines-paristech.fr\">alexis.paljic@mines-paristech.fr</a>"
+
+color_scheme: foo
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

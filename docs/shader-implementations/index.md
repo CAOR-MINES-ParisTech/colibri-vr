@@ -15,3 +15,4 @@ Vertex/fragment and compute shaders are the backbone of the processing and rende
 
 - The [Per-view meshes QSTR](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations/per-view-meshes-qstr) page describes the implementation of a geometry processing method: per-view meshing from depth maps with quadtree simplification and triangle removal.
 - The [ULR on global mesh](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations/ulr-global-mesh) page describes the implementation of a rendering method: unstructured lumigraph rendering on a global mesh.
+- The [Disk-based blending](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations/disk-based-blending) page describes the implementation of a rendering method: disk-based blending for per-view proxies.

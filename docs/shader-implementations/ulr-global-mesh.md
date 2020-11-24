@@ -14,6 +14,10 @@ nav_order: 2
 
 This blending method can be used to render a global mesh in a way that displays captured view-dependent effects such as specular highlights. It is a good baseline for view-dependent image-based rendering, as it efficiently demonstrates the potential of such methods for photorealistically replicating visual highlights and reflections, and has frequently been used by recent works as a reference point for comparison.
 
+<p align="center">
+      <img src="https://github.com/caor-mines-paristech/colibri-vr/raw/master/docs/illustrations/Terrains-ULR.png" alt="" width="1500" height="500"><br><i>Unstructured lumigraph rendering applied to render the Terrains dataset in VR.</i>
+</p>
+
 ## Vertex and fragment
 
 This method is implemented as a vertex/fragment shader, following the operations described by <a href="#buehler2001">[Buehler et al. 2001]</a>. In the vertex stage, weights are computed for each of the source cameras (one for each input image), quantifying the relevance of each camera's contribution to the color of the given vertex. This is called the camera blending field. It is used in the fragment stage, where the output color is computed as the weighted contribution of the *n* images most relevant for the given fragment, where *n* is a parameter that can be chosen in the graphical user interface.

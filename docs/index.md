@@ -23,29 +23,6 @@ For Unity versions: 2019.2.15f1 or higher
    Watch the project video: <a href="https://youtu.be/HtJarul_32c">on YouTube</a>
 </p>
 
-* * *
-{: .bg-green-000 .mb-4 }
-News
-{: .label .label-green }
-
-- You can now join our COLIBRI VR [web forum](https://groups.google.com/forum/#!forum/colibri-vr) to ask questions about COLIBRI VR, report bugs, or request features! More generally this will be a good place to discuss subjects related to image-based virtual reality and image-based rendering.
-
-* * *
-{: .bg-green-000 .mt-1 }
-
-* * *
-{: .bg-yellow-300 .mb-4  }
-
-Work-in-progress
-{: .label .label-yellow}
-
-- Tutorial videos are gradually making their way to the [Tutorial videos](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos) page. Thank you for your patience!
-- The package can currently be loaded into a Unity project by using the Package Manager window and adding the package from its [GitHub page](https://github.com/caor-mines-paristech/colibri-vr-unity-package/). Details on this process can be found in the [first tutorial video](https://caor-mines-paristech.github.io/colibri-vr/getting-started/tutorial-videos#1-installing-the-colibri-vr-unity-package-from-github).
-- The project is still very much in a beta phase, so we are currently waiting to get a little more feedback before putting it on the Asset Store.
-
-* * *
-{: .bg-yellow-300 .mt-1 }
-
 ## About
 
 COLIBRI VR is the Core Open Lab on Image-Based Rendering Innovation for Virtual Reality. It is an open resource with a graphical user interface that aims to enable researchers to easily use and develop image-based rendering techniques for virtual reality. It is currently being developed as a package for the Unity game engine.
@@ -109,5 +86,6 @@ Here are the different elements you can find on this documentation website:
 - The [Core components](https://caor-mines-paristech.github.io/colibri-vr/core-components) pages contain detailed information on the components implemented in the project, and can thus help better use the related graphical user interfaces.
 - The [Shader implementations](https://caor-mines-paristech.github.io/colibri-vr/shader-implementations) pages describe the vertex/fragment and compute shader implementations of several processing and rendering methods.
 - The [Datasets](https://caor-mines-paristech.github.io/colibri-vr/datasets) page provides a list of online image datasets on which the project can be tested.
+- The [Forum](https://caor-mines-paristech.github.io/colibri-vr/faq) page provides information on the related web forum.
 - The [FAQ](https://caor-mines-paristech.github.io/colibri-vr/faq) page answers frequently asked questions.
 
